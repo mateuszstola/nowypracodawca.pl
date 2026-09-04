@@ -1,0 +1,8 @@
+{
+  "name": "NowyPracodawca.pl",
+  "description": "Platforma wspierająca firmy w pozyskiwaniu najlepszych talentów, budowaniu Employer Branding i automatyzacji rekrutacji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
